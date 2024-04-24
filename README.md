@@ -76,7 +76,7 @@ Because we also include an "alternative" way for users who are more farmiliar wi
 - If you choose to play with this option, you need to run the First Part of the notebook file (Schema Creation) and the Last Part of the notebook file (Data Insertion to Schema).
 - Before you run, you need to remove the "#" comment before the code for each schema insertion section, and you need to commented the default insertion code (the original code in ETL process) so that the two ways of insertion does not intervene.
 
-###Important Note on the "Additional Files" !!
+### Important Note on the "Additional Files" !!
 
 Since this read me is lengthy, we assume that some users may ignore some important details about our explination, we include this "Important Note" section:
 
