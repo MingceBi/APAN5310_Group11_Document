@@ -1,0 +1,134 @@
+customer_id,store_id,review_date,rating,review
+1,3,2023-08-04 00:17:00,5.0,great selection of fresh produce
+2,2,2023-08-27 11:28:00,3.0,a well-stocked supermarket with friendly staff
+3,1,2023-05-11 00:50:00,3.0,good for one-stop shopping
+4,3,2023-06-06 12:29:00,1.0,not very clean
+5,4,2023-11-14 10:40:00,5.0,great selection of fresh produce
+6,5,2024-01-27 13:27:00,3.0,"average prices, good selection"
+7,3,2023-05-01 15:27:00,4.0,a great place to buy groceries
+8,4,2024-04-27 20:22:00,5.0,customer service is excellent
+9,1,2024-03-14 08:37:00,3.0,"low prices, but poor customer service"
+10,3,2023-05-29 13:10:00,4.0,friendly staff and good prices
+11,1,2023-09-30 08:14:00,3.0,good selection of fresh produce
+12,3,2023-10-23 14:00:00,5.0,good selection
+13,5,2024-01-28 00:05:00,5.0,good prices and selection
+14,1,2023-05-07 23:46:00,4.0,Good prices and selection
+15,4,2023-05-13 11:37:00,3.0,good selection of fresh fruit
+16,5,2023-09-13 07:58:00,4.0,fresh produce
+17,2,2023-11-28 02:28:00,5.0,"good prices, good range, friendly staff"
+18,1,2023-04-22 22:09:00,4.0,friendly staff and good selection
+19,4,2023-06-21 14:37:00,5.0,good selection of products
+20,1,2024-01-19 01:05:00,4.0,good selection of fresh fruit
+21,2,2023-11-12 12:53:00,4.0,large supermarket with a great selection of items
+22,4,2023-12-27 06:45:00,1.0,dirty and smelly
+23,1,2023-07-07 18:15:00,4.0,"well-stocked, affordable"
+24,5,2024-01-01 08:06:00,5.0,good prices and selection
+25,1,2024-05-09 18:48:00,5.0,good selection of products
+26,4,2023-10-08 12:31:00,3.0,good selection of fresh produce
+27,3,2024-03-19 16:34:00,5.0,good food and prices
+28,4,2024-02-25 07:45:00,1.0,poor selection
+29,1,2023-06-27 16:46:00,5.0,offers a wide variety of fresh produce
+30,1,2024-04-23 08:00:00,5.0,friendly staff
+31,3,2023-08-19 19:04:00,3.0,good selection of food and reasonable prices
+32,3,2023-08-31 06:56:00,4.0,a great place to shop for groceries
+33,5,2024-02-27 13:45:00,5.0,great selection of fresh produce
+34,4,2024-01-17 17:27:00,5.0,good value
+35,2,2023-10-03 12:44:00,5.0,a great place to shop
+36,5,2024-03-23 12:10:00,5.0,family friendly supermarket
+37,3,2024-01-10 21:35:00,3.0,"a bit expensive, but good selection"
+38,1,2023-11-06 13:56:00,3.0,a great place to pick up some groceries
+39,4,2023-10-11 19:01:00,5.0,good selection of products
+40,5,2023-05-22 00:12:00,4.0,the staff are always friendly and helpful
+41,1,2023-09-15 00:47:00,5.0,good variety of fresh produce
+42,4,2024-01-17 19:01:00,5.0,good selection and prices
+43,2,2023-08-17 17:37:00,3.0,"good prices, limited selection"
+44,4,2023-05-14 07:17:00,5.0,"convenient, clean, and friendly staff"
+45,5,2023-05-29 04:26:00,3.0,fresh produce
+46,2,2023-08-19 14:48:00,5.0,great selection of fresh produce
+47,1,2024-01-23 19:32:00,5.0,great selection of fresh produce
+48,3,2024-02-04 08:50:00,5.0,great staff
+49,4,2024-02-11 02:57:00,5.0,Friendly and helpful staff
+50,5,2023-11-15 09:12:00,4.0,good quality food
+51,4,2023-06-08 10:37:00,5.0,offers a wide variety of fresh produce
+52,3,2023-04-23 18:57:00,4.0,has everything you need
+53,5,2023-07-15 09:29:00,5.0,clean and well-stocked
+54,1,2024-01-16 15:07:00,5.0,the best supermarket in town
+55,3,2023-09-03 17:20:00,5.0,well-stocked and clean
+56,4,2023-11-29 18:39:00,2.0,good for basic groceries
+57,1,2024-02-08 09:13:00,5.0,clean and well stocked
+58,4,2023-05-22 05:27:00,5.0,"good selection of fresh produce, meats, and dairy"
+59,1,2024-03-27 22:01:00,4.0,high quality fresh produce
+60,5,2023-11-11 06:44:00,1.0,poor customer service
+61,2,2023-10-05 16:36:00,5.0,good selection of fresh produce
+62,5,2023-11-16 19:51:00,5.0,good quality food
+63,1,2024-03-06 12:00:00,3.0,friendly staff and convenient location
+64,2,2023-06-08 01:11:00,5.0,great selection of fresh produce
+65,2,2024-03-06 08:40:00,5.0,a supermarket with a wide variety of products and good prices
+66,4,2024-04-16 20:17:00,3.0,has a good selection of fresh produce
+67,5,2023-05-29 17:00:00,5.0,good selection of fresh produce
+68,5,2023-10-11 23:30:00,1.0,not much choice
+69,1,2023-06-27 17:16:00,5.0,"friendly staff, good selection"
+70,4,2023-11-22 16:25:00,4.0,good selection of fresh produce
+71,4,2024-01-13 19:12:00,3.0,good selection of produce
+72,4,2023-06-26 21:24:00,1.0,poor selection of fruit
+73,3,2023-05-29 10:24:00,1.0,poor customer service
+74,5,2023-09-10 09:59:00,4.0,good selection of fresh produce
+75,2,2024-03-29 15:03:00,5.0,a great place to shop for groceries
+76,2,2023-07-14 23:42:00,4.0,friendly staff and clean environment.
+77,1,2024-05-01 14:10:00,5.0,good customer service
+78,3,2023-10-08 14:01:00,3.0,"has everything you need, but a bit overpriced"
+79,4,2024-02-06 02:39:00,5.0,good selection of fruits
+80,2,2023-12-01 03:17:00,5.0,great selection of fresh produce
+81,5,2023-10-04 09:14:00,3.0,good value for money
+82,1,2024-02-05 01:06:00,4.0,high quality products
+83,3,2023-06-17 09:14:00,3.0,well-stocked but pricey
+84,4,2023-09-15 20:42:00,5.0,friendly staff and good prices
+85,4,2023-08-25 00:03:00,3.0,good selection of fresh produce
+86,5,2023-06-10 09:39:00,5.0,best supermarket in town
+87,5,2024-01-11 09:51:00,4.0,friendly staff
+88,2,2023-08-25 20:35:00,5.0,"average prices, good selection of products"
+89,5,2024-04-09 03:52:00,4.0,family friendly supermarket
+90,2,2024-04-10 06:47:00,5.0,great selection of fruits and vegetables
+91,1,2023-12-17 23:54:00,5.0,"good prices, clean and friendly staff"
+92,4,2023-11-20 22:32:00,1.0,poor customer service
+93,5,2023-06-02 09:22:00,4.0,good selection of products
+94,5,2023-10-24 13:08:00,5.0,good selection of food and drinks
+95,5,2024-04-08 19:50:00,4.0,friendly staff and good prices
+96,3,2024-03-12 20:59:00,1.0,poor customer service
+97,2,2023-07-01 02:05:00,5.0,good quality fresh produce
+98,4,2023-07-03 01:26:00,1.0,a poor selection of groceries
+99,5,2023-11-06 23:50:00,5.0,Good selection of fresh produce
+100,2,2024-02-07 08:42:00,3.5,a supermarket that is a bit expensive but has a wide selection of products
+101,3,2023-11-28 13:08:00,4.0,good prices and selection
+102,2,2023-08-09 06:45:00,5.0,"good prices, good selection, friendly staff"
+103,5,2024-01-10 03:15:00,5.0,well stocked and friendly staff
+104,3,2024-02-06 17:47:00,3.0,"well-stocked, but pricey"
+105,5,2023-08-09 23:47:00,3.0,good selection of fresh produce
+106,2,2023-10-25 19:50:00,5.0,friendly staff and great selection
+107,3,2024-04-04 15:04:00,5.0,cheap and good quality
+108,4,2024-01-21 14:11:00,4.0,cheap and good quality
+109,5,2023-08-11 13:25:00,5.0,the best supermarket in town
+110,4,2023-09-22 00:05:00,5.0,excellent selection of fresh produce and meats
+111,2,2024-04-24 15:55:00,2.0,a small supermarket with limited selection
+112,5,2023-07-08 02:37:00,5.0,nice place
+113,3,2024-01-29 11:44:00,3.0,a great place to buy groceries
+114,4,2023-11-15 11:55:00,5.0,a great place to buy groceries
+115,4,2023-07-13 18:19:00,5.0,great selection and excellent customer service
+116,3,2023-05-16 14:30:00,4.0,great selection of fresh produce
+117,4,2023-07-24 22:00:00,3.0,good selection of fresh produce
+118,2,2024-04-09 03:45:00,4.0,Friendly staff and great selection of fresh produce
+119,5,2023-12-17 19:28:00,4.0,with a great selection of fresh produce
+120,2,2023-05-13 01:55:00,4.0,good selection of fresh produce
+121,4,2024-01-02 19:16:00,5.0,"good prices, wide selection, friendly staff"
+122,4,2023-12-10 23:39:00,4.0,great selection of fruits and vegetables
+123,3,2023-12-16 22:31:00,4.0,Good selection of fresh produce
+124,2,2023-09-07 10:28:00,3.0,friendly staff
+125,4,2023-06-16 08:51:00,3.0,a decent place to shop
+126,3,2023-11-03 09:04:00,5.0,great selection and prices
+127,3,2023-12-18 18:32:00,5.0,"friendly staff, good selection"
+128,4,2023-10-17 09:27:00,3.0,great selection of organic produce
+129,4,2024-01-26 12:56:00,5.0,A great place to shop for groceries.
+130,1,2024-03-17 22:38:00,5.0,great selection of fresh produce
+131,1,2023-06-19 06:09:00,5.0,"Clean, friendly staff, great selection of products"
+132,4,2023-06-18 15:27:00,4.0,friendly staff
+133,1,2023-11-26 02:15:00,4.0,has everything you need
