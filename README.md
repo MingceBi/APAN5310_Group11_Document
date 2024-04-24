@@ -71,7 +71,7 @@ Note: We do not advice you to use this method since this break the automated pro
 As we explained in the above section, these files are generated automatically if you follow our "Setup and Perform ETL Steps", but why we also include these documents in this folder? 
 
 Because we also include an "alternative" way for users who are more farmiliar with ETL process (such as our group members) or who simply wants to see what the cleaned dataframes (datasets) look like. This way provides us (group members) with flexibility when we want to keep record of our data manipulation process, and also gives us flexibility if we decides to make any adjustment to the datasets (dataframes) in the data manipulation process, without affecting the entire flow of the ETL code:
-- If you check the bottom section (data insertion) in the APAN5310_Group11_ETL.ipynb notebook, you can see that we also wrote some code that support inserting data into database using an alternative way these above files.
+- If you check the bottom section (data insertion) in the APAN5310_Group11_ETL.ipynb notebook, you can see that we also wrote some code that support inserting data into database using an alternative way with these above files.
 - These codes are commented using "#" so that it is not involved in the automated ETL process. 
 - If you choose to play with this option, you need to run the First Part of the notebook file (Schema Creation) and the Last Part of the notebook file (Data Insertion to Schema).
 - Before you run, you need to remove the "#" comment before the code for each schema insertion section, and you need to commented the default insertion code (the original code in ETL process) so that the two ways of insertion does not intervene.
