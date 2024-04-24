@@ -64,7 +64,7 @@ These documents are:
 - Storesorders Table Insertion.csv
 - Supplier Table Insertion.csv
 
-### How you can "play" with Additional Files (You could ry this if you already perform the guided ETL process at least once!!!)
+### How you can "play" with Additional Files (You could try this if you already perform the guided ETL process at least once!!!)
 
 Note: We do not advice you to use this method since this break the automated process of the ETL process we designed. We include this for documentation purpose for the Transformation process (data manipulation). If you want to use this option, we advice you to at least perform the guided ETL Steps once to understand our ETL process and database design!
 
