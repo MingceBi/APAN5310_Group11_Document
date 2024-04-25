@@ -103,6 +103,6 @@ Since this read me is lengthy, we assume that some users may ignore some importa
 - Group11_E-R_Diagram.pdf (this is the ER Diagram of our database, read this to help you understand our database design and relationship constraints)
 - APAN5310_Group11_Slide.pdf (this is the presentation slides in pdf format for our group)
 - insights_sql_code.sql (this includes all the sql queries for the insights that we generated, there are 15 queries for 15 insights in total)
-- Group11_metabase_screenshots.pdf (this includes three metabase dashboards that we designed for insights around: sales & customers, suppliers & cost, customer ratings)
+- Group11_metabase_screenshot.pdf (this includes three metabase dashboards that we designed for insights around: sales & customers, suppliers & cost, customer ratings)
 
 Enjoy your ETL!
