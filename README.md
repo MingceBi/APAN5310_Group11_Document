@@ -7,8 +7,9 @@ The main part for this document is to present the ETL design through python jupy
 ### Set Up and Perform ETL Steps
 These steps will be explained in detail in following parts
 1. Put the required document in the same folder before running following steps
-2. Set up a new database in PostgreSQL with the guided name (you can do this using PgAdmin)
-3. Open the jupyter notebook file and choose "runall" to directly ETL to your database (this is the suggested way of running the code)
+2. Install python packages/modules before running the jupyter notebook ETL code
+3. Set up a new database in PostgreSQL with the guided name (you can do this using PgAdmin)
+4. Open the jupyter notebook file and choose "runall" to directly ETL to your database (this is the suggested way of running the code)
 
 #### Step 1: These files must be in the same folder with jupyter notebook file before running the code
 Below file specification includes 5 csv files that the ETL file need to extract data from, and the source ETL code in the ipynb jupyter notebook file format that can directly run the python code.
@@ -22,7 +23,19 @@ Below file specification includes 5 csv files that the ETL file need to extract 
 
 These files are all provided in our document folder so you can select and download these files and put them in the same folder.
 
-#### Step 2: Setup the PostgreSQL database
+#### Step 2: Install Python Packages
+This ETL python code requires a few packages to support the entire process. If your device do not have these python packages/modules, please install these packages before you run the ETL jupyter notebook:
+
+- psycopg2
+- Pandas
+- NumPy
+- Matplotlib
+- Random
+- warnings
+- re
+
+
+#### Step 3: Setup the PostgreSQL database
 If you choose to directly follow Step 1 in the previous step and use the "runall" option in jupyter notebook, you can ignore the last two bulletpoints in this step (Step 2). Setting up the database with guided name is enough for running the ETL document if you simply decided to run the ETL process. This is because our ETL code is an automated process that do not need to make additional adjustment to the code that we provided, this allow any user to run the ETL process (without prior knowledge to python or psycopg).
 
 - Create Database with Name: 5310_Group11_ETL_Update (must do this !!!)
@@ -30,7 +43,7 @@ If you choose to directly follow Step 1 in the previous step and use the "runall
 - Pay attention to the conn.commit() code block at the end of the schema creation codes (the first section of the jupyter notebook document). You need to run this block to create all schema. (ignore this part if you choose to "runall" in notebook)
 - At the bottom of the notebook (end of the notebook), there is cur.close() and conn,close() code. You need to run these codes if you want to delete the database from postgresql. Otherwise, you are leaving your connection with PostgreSQL on and PostgreSQL will not allow you to delete database. (ignore this part if you choose to "runall" in notebook)
 
-#### Step 3: Open jupyter notebook file and choose "runall" to perform ETL
+#### Step 4: Open jupyter notebook file and choose "runall" to perform ETL
 For all users, if you follow Step 1 and the first bullet point in Step 2 (database setup), then you can open the ipynb file in the same folder and run the code using "runall" option. As we mentioned previously, this is an automated process so you do not need to make changes inside the notebook code. The best way to perform this is to follow the Step 1 and Step 2 bullet 1 to make simple set up before you run the notebook file.
 
 - Check whether you put the required document in the same folder when running (Step 1 check)
@@ -88,10 +101,8 @@ Since this read me is lengthy, we assume that some users may ignore some importa
 ## Other Documents:
 
 - Group11_E-R_Diagram.pdf (this is the ER Diagram of our database, read this to help you understand our database design and relationship constraints)
+- APAN5310_Group11_Slide.pdf (this is the presentation slides in pdf format for our group)
+- insights_sql_code.sql (this includes all the sql queries for the insights that we generated, there are 15 queries for 15 insights in total)
+- Group11_metabase_screenshots.pdf (this includes three metabase dashboards that we designed for insights around: sales & customers, suppliers & cost, customer ratings)
 
 Enjoy your ETL!
-
-
-
-
-
