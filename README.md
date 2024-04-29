@@ -100,6 +100,7 @@ Since this read me is lengthy, we assume that some users may ignore some importa
 
 ## Other Documents:
 
+- Link to Lucid Chart E-R Diagram : https://lucid.app/lucidchart/68359b44-21b6-41a0-8a41-ab9eb98f4c9b/edit?viewport_loc=-934%2C-655%2C3769%2C1866%2CoNNpwriCo-qV&invitationId=inv_0569a334-75a2-418d-b98e-57f5b55265c8
 - Group11_E-R_Diagram.pdf (this is the ER Diagram of our database, read this to help you understand our database design and relationship constraints)
 - APAN5310_Group11_Slide.pdf (this is the presentation slides in pdf format for our group)
 - insights_sql_code.sql (this includes all the sql queries for the insights that we generated, there are 15 queries for 15 insights in total)
